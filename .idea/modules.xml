@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/atcoder/atcoder.iml" filepath="$PROJECT_DIR$/atcoder/atcoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atcoder/otherContest/otherContest.iml" filepath="$PROJECT_DIR$/atcoder/otherContest/otherContest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paiza/paiza.iml" filepath="$PROJECT_DIR$/paiza/paiza.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workspace_java.iml" filepath="$PROJECT_DIR$/workspace_java.iml" />
+    </modules>
+  </component>
+</project>
